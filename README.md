@@ -18,6 +18,42 @@
 
 # Markdown語法練習區⬇️⬇️⬇️
 
+# H1標題
+## H2標題
+### H3標題
+#### H4標題
+
+**這是粗體**
+*這是斜體*
+
+- 第一項
+  - 子項
+  - 子項
+ 
+1. 第一項
+   1. 子項
+   2. 子項
+
+`這是一行程式碼`
+
+```python
+# 這是PYTHON程式碼區塊
+print("hellow, world!")
+```
+
+[github](https//github.com)
+
+![代替文字](https://cg2010studio.com/wp-content/uploads/2021/08/flutter-app-dev.png)
+
+>這是一個引用
+
+---
+
+| 表頭一 | 表投二 |
+| ----- | ----- |
+|單元格一|單元格二|
+|單元格三|單元格四|
+
 
 
 
